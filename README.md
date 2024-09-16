@@ -1,7 +1,7 @@
 # ML_for_Alzheimer-s_Disease
 ## Comparing Machine Learning Algorithms for Alzheimer's Disease Classification
 
-The goal of this project is to explore how various machine learning algorithms affect the accuracy of Alzheimer’s disease classification, with the aim of identifying the most effective model to improve diagnostic tools for this complex condition, thereby facilitating early detection and timely intervention.
+The goal of this group project was to explore how various machine learning algorithms affect the accuracy of Alzheimer’s disease classification, with the aim of identifying the most effective model to improve diagnostic tools for this complex condition, thereby facilitating early detection and timely intervention.
 
 Data Sourcing: Kaggle API
 
