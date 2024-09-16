@@ -21,3 +21,5 @@ Random Forest Classifier & Decision Tree Classifier:
 - Average Recall: 91%
 - Average F1 Score: 91%
 
+![image](https://github.com/WenMar/ML_for_Alzheimer-s_Disease/blob/main/Result%20Alz%20Disease%20project%20AUC%20-%20ROC.png)
+![image](https://github.com/WenMar/ML_for_Alzheimer-s_Disease/blob/main/Confusion%20Matrix%20Decision%20tree%20%26%20Random%20Forest.png)
